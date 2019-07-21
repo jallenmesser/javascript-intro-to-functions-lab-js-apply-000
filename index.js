@@ -14,4 +14,6 @@ function logWhisper(string) {
   console.log(whisper(string))
 }
 
-function sayHi
+function sayHiToGrandma(string) {
+  string === 
+}
